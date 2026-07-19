@@ -2,7 +2,15 @@
 
 A full-stack AI system that conducts academic literature reviews autonomously. Give it a research topic — it searches arXiv, reads papers, extracts factual claims, detects contradictions between studies, maps concepts into a knowledge graph and delivers a structured report with citations. The kind of work that takes a PhD student weeks takes this agent minutes.
 
----
+<img width="960" height="418" alt="3" src="https://github.com/user-attachments/assets/9f5ab3cb-dcdd-4e60-8dcd-6047f9ff1d87" />
+<img width="917" height="421" alt="2" src="https://github.com/user-attachments/assets/e1c13c67-8dd2-4d9e-b26e-8b65f9e93ea8" />
+<img width="569" height="408" alt="1" src="https://github.com/user-attachments/assets/3c21853c-0e70-45c3-bac3-6fb7bfd8f93a" />
+<img width="951" height="385" alt="4" src="https://github.com/user-attachments/assets/73c1e897-8c94-490f-9d4c-5f81317f0815" />
+<img width="952" height="403" alt="8" src="https://github.com/user-attachments/assets/214b41da-cfae-4881-9bb4-572422e21c2b" />
+<img width="960" height="411" alt="9" src="https://github.com/user-attachments/assets/c4ca2714-668e-4a9f-ae04-bbbf2d0c5f32" />
+<img width="945" height="314" alt="5" src="https://github.com/user-attachments/assets/62a5b851-ffa6-45e2-bcaf-55f476066012" />
+
+
 
 ## What it actually does
 
